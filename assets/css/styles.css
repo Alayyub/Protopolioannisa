@@ -789,7 +789,6 @@ img {
   color: var(--text-color);
 }
 .contact_input {
-  width: 100%;
   background-color: var(--input-color);
   color: var(--text-color);
   font-family: var(--body-font);
@@ -1105,7 +1104,7 @@ img {
   .footer_container {
     padding: 0;
   }
-  .home_container{
+  .home_container {
     margin-top: -4rem;
   }
   .home_blob {
